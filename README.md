@@ -7,6 +7,11 @@ A sophisticated real-time voice assistant application that enables users to uplo
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+# Check out my announcement on LinkedIn showcasing the real‑time Voice‑to‑Voice AI Agent built with LiveKit and Redis:
+
+🔗 [Built a Real-time Voice‑to‑Voice AI Agent for documents – LinkedIn](https://www.linkedin.com/posts/ramzirebai_ai-voiceai-livekit-activity-7345431004230168577-0-Uy)
+
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
@@ -138,4 +143,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser
 ### Real-time Voice Processing
 - **Low Latency**: Sub-second response times for voice interactions
 - **Natural Conversations**: Context-aware responses with conversation memory
-- **Live Transcription
+- **Live Transcription**: Real-time speech-to-text with visual feedback
+- **Typing Indicators**: See when the AI is processing your request
+### PDF Document Handling
+- **Drag & Drop Upload**: Easy PDF upload with progress tracking
+- **Document Indexing**: Efficient indexing of PDF content for fast retrieval
+- **Semantic Search**: Ask questions in natural language and get accurate answers
+- **Contextual Understanding**: AI understands context and provides relevant responses
+## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
