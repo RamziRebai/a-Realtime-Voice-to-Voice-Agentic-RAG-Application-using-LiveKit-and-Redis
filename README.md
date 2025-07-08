@@ -79,20 +79,6 @@ graph TB
 - Redis instance (local or cloud)
 - API keys for OpenAI, Deepgram, and LiveKit
 
-### Environment Setup
-
-1. **Clone the repository**
-```bash
-git clone <repository-url>
-cd voice-assistant-frontend
-```
-
-2. **Install frontend dependencies**
-```bash
-npm install
-# or
-yarn install
-```
 
 3. **Configure environment variables**
 Create `.env.local` file in the frontend directory:
