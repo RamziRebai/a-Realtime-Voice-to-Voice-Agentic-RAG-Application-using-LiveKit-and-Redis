@@ -11,6 +11,12 @@ A sophisticated real-time voice assistant application that enables users to uplo
 🔗 [Built a Real-time Voice‑to‑Voice AI Agent for documents – LinkedIn](https://www.linkedin.com/posts/ramzirebai_ai-voiceai-livekit-activity-7345431004230168577-0-Uy)
 
 
+<div class="project-card" style="border-left: 4px solid #9775FA; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
+<div align="center">
+  <img src="[https://ibb.co/nMzJ8QhD](https://ibb.co/nMzJ8QhD)" alt="Multi-agent System" width="300" />
+</div>
+
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
