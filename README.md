@@ -13,7 +13,7 @@ A sophisticated real-time voice assistant application that enables users to uplo
 
 <div class="project-card" style="border-left: 4px solid #9775FA; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
 <div align="center">
-  <img src="[https://ibb.co/nMzJ8QhD](https://ibb.co/nMzJ8QhD)" alt="Multi-agent System" width="300" />
+  <img src="https://i.ibb.co/qYkQFmbR/Real-Time-Voice-to-Voice-AI-Agent-RAG-Cover.jpg" alt="Multi-agent System" width="300" />
 </div>
 
 
