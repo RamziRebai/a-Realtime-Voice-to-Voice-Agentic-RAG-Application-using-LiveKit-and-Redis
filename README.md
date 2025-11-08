@@ -7,8 +7,10 @@ A sophisticated real-time voice assistant application that enables users to uplo
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Check out my announcement on LinkedIn showcasing the real‑time Voice‑to‑Voice AI Agent built with LiveKit and Redis:
-🔗 [Built a Real-time Voice‑to‑Voice AI Agent for documents – LinkedIn](https://www.linkedin.com/posts/ramzirebai_ai-voiceai-livekit-activity-7345431004230168577-0-Uy)
+## Demo showcasing the real‑time Voice‑to‑Voice AI Agent built with LiveKit and Redis:
+
+https://github.com/user-attachments/assets/714b66c6-5db5-4a32-90d3-74e2c50df493
+
 
 
 <div class="project-card" style="border-left: 4px solid #9775FA; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
