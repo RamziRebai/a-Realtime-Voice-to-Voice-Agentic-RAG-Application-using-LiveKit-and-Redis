@@ -12,13 +12,6 @@ A sophisticated real-time voice assistant application that enables users to uplo
 https://github.com/user-attachments/assets/714b66c6-5db5-4a32-90d3-74e2c50df493
 
 
-
-<div class="project-card" style="border-left: 4px solid #9775FA; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
-<div align="center">
-  <img src="https://i.ibb.co/qYkQFmbR/Real-Time-Voice-to-Voice-AI-Agent-RAG-Cover.jpg" alt="Multi-agent System" width="300" />
-</div>
-
-
 ## ✨ Features
 
 ### 🎯 Core Functionality
